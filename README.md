@@ -19,4 +19,4 @@ This endeavor isn't just a Holberton assignment—it's a portfolio project refle
 
 # Project Repository
 
-Check the repo here: [GitHub] (https://github.com/babafemiolatona/pocket-tracker)
+Check the repo here: [GitHub](https://github.com/babafemiolatona/pocket-tracker)
