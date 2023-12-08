@@ -2,4 +2,5 @@ title: Expense tracker
 theme_config:
   cover: /assets/img/expensePage.png
 description: An expense tracking app designed for on-the-go users. Easily monitor and categorize your expenses.
+logo: /assets/img/expensePage.png
 theme: jekyll-theme-Minimal
