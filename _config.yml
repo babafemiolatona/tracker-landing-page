@@ -1,4 +1,4 @@
-title: Expense tracker
+title: PocketTracker
 theme_config:
   cover: /assets/img/expensePage.png
 description: An expense tracking app designed for on-the-go users. Easily monitor and categorize your expenses.
